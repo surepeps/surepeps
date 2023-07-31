@@ -25,7 +25,7 @@
 ### :woman_technologist: About Me :
   Hi, I'm [Hassan Tijani.A](https://surecoders.com/), a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
   
-  Forward-thinking Software Engineer with background working productively in dynamic environments with 6 years of related experience. Fluent in PHP, NodeJs, ReactJs, AdonisJs, Flutter and Java programming languages used to develop software in tech world. Proud team player focused on achieving project objectives with speed and accuracy. Proficient developer and energetic senior instructor with strategic teaching methodologies for effective learning in web and mobile development field.
+  A forward-thinking Software Engineer with background working productively in dynamic environments with 6 years of related experience. Fluent in PHP, NodeJs, ReactJs, AdonisJs, Flutter and Java programming languages used to develop software in tech world. Proud team player focused on achieving project objectives with speed and accuracy. Proficient developer and energetic senior instructor with strategic teaching methodologies for effective learning in web and mobile development field.
 
 
    ---
